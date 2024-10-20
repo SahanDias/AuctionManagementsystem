@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\wwwroot\\uploads\\bidding site.JPG",
+      "PackagePath": "staticwebassets\\uploads\\bidding site.JPG"
+    },
+    {
+      "Id": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\wwwroot\\uploads\\daraz6.JPG",
+      "PackagePath": "staticwebassets\\uploads\\daraz6.JPG"
+    },
+    {
+      "Id": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\wwwroot\\uploads\\download.png",
+      "PackagePath": "staticwebassets\\uploads\\download.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AuctionBackend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AuctionBackend.props",
+      "PackagePath": "build\\AuctionBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AuctionBackend.props",
+      "PackagePath": "buildMultiTargeting\\AuctionBackend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AuctionBackend.props",
+      "PackagePath": "buildTransitive\\AuctionBackend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

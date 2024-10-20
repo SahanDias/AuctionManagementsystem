@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "4oLXLBjXGMUmd1Pun1AQ+j64HJjw8seQM1TIR895PCM=",
+  "Source": "AuctionBackend",
+  "BasePath": "_content/AuctionBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AuctionBackend\\wwwroot",
+      "Source": "AuctionBackend",
+      "ContentRoot": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\wwwroot\\",
+      "BasePath": "_content/AuctionBackend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\wwwroot\\uploads\\bidding site.JPG",
+      "SourceId": "AuctionBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\wwwroot\\",
+      "BasePath": "_content/AuctionBackend",
+      "RelativePath": "uploads/bidding site.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\bidding site.JPG"
+    },
+    {
+      "Identity": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\wwwroot\\uploads\\daraz6.JPG",
+      "SourceId": "AuctionBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\wwwroot\\",
+      "BasePath": "_content/AuctionBackend",
+      "RelativePath": "uploads/daraz6.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\daraz6.JPG"
+    },
+    {
+      "Identity": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\wwwroot\\uploads\\download.png",
+      "SourceId": "AuctionBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\wwwroot\\",
+      "BasePath": "_content/AuctionBackend",
+      "RelativePath": "uploads/download.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\download.png"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AMS\\backend\\AuctionBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE9A324-5F6F-477D-BF54-DB3686E7CBA3}|AuctionBackend\\AuctionBackend.csproj|d:\\ams\\backend\\auctionbackend\\auctionbackend\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE9A324-5F6F-477D-BF54-DB3686E7CBA3}|AuctionBackend\\AuctionBackend.csproj|solutionrelative:auctionbackend\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE9A324-5F6F-477D-BF54-DB3686E7CBA3}|AuctionBackend\\AuctionBackend.csproj|d:\\ams\\backend\\auctionbackend\\auctionbackend\\models\\updateitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE9A324-5F6F-477D-BF54-DB3686E7CBA3}|AuctionBackend\\AuctionBackend.csproj|solutionrelative:auctionbackend\\models\\updateitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE9A324-5F6F-477D-BF54-DB3686E7CBA3}|AuctionBackend\\AuctionBackend.csproj|d:\\ams\\backend\\auctionbackend\\auctionbackend\\models\\createitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE9A324-5F6F-477D-BF54-DB3686E7CBA3}|AuctionBackend\\AuctionBackend.csproj|solutionrelative:auctionbackend\\models\\createitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE9A324-5F6F-477D-BF54-DB3686E7CBA3}|AuctionBackend\\AuctionBackend.csproj|d:\\ams\\backend\\auctionbackend\\auctionbackend\\models\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE9A324-5F6F-477D-BF54-DB3686E7CBA3}|AuctionBackend\\AuctionBackend.csproj|solutionrelative:auctionbackend\\models\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE9A324-5F6F-477D-BF54-DB3686E7CBA3}|AuctionBackend\\AuctionBackend.csproj|d:\\ams\\backend\\auctionbackend\\auctionbackend\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE9A324-5F6F-477D-BF54-DB3686E7CBA3}|AuctionBackend\\AuctionBackend.csproj|solutionrelative:auctionbackend\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE9A324-5F6F-477D-BF54-DB3686E7CBA3}|AuctionBackend\\AuctionBackend.csproj|d:\\ams\\backend\\auctionbackend\\auctionbackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE9A324-5F6F-477D-BF54-DB3686E7CBA3}|AuctionBackend\\AuctionBackend.csproj|solutionrelative:auctionbackend\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "AuctionBackend\\Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "AuctionBackend\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAcwGgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:22:33.889Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "AuctionBackend\\Controllers\\AdminsController.cs",
+              "ToolTip": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "AuctionBackend\\Controllers\\AdminsController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwCoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:03:59.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\Models\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "AuctionBackend\\Models\\Entities\\Item.cs",
+              "ToolTip": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\Models\\Entities\\Item.cs",
+              "RelativeToolTip": "AuctionBackend\\Models\\Entities\\Item.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:19:24.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateItemDto.cs",
+              "DocumentMoniker": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\Models\\CreateItemDto.cs",
+              "RelativeDocumentMoniker": "AuctionBackend\\Models\\CreateItemDto.cs",
+              "ToolTip": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\Models\\CreateItemDto.cs",
+              "RelativeToolTip": "AuctionBackend\\Models\\CreateItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:07:37.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AuctionBackend\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AuctionBackend\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:56:42.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateItemDto.cs",
+              "DocumentMoniker": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\Models\\UpdateItemDto.cs",
+              "RelativeDocumentMoniker": "AuctionBackend\\Models\\UpdateItemDto.cs",
+              "ToolTip": "D:\\AMS\\backend\\AuctionBackend\\AuctionBackend\\Models\\UpdateItemDto.cs",
+              "RelativeToolTip": "AuctionBackend\\Models\\UpdateItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:07:19.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
