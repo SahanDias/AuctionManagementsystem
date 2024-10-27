@@ -2,6 +2,8 @@ using AuctionBackend.Data;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+using AuctionBackend.Services.EmailService;
+using AuctionBackend.Models;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +14,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddTransient<IEmailService, EmailService>();
 
 builder.Services.AddAuthentication(options =>
 {
@@ -37,6 +40,7 @@ options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectio
 var app = builder.Build();
 
 app.UseAuthentication();
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

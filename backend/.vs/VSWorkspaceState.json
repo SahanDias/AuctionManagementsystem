@@ -1,6 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AuctionBackend",
+    "\\AuctionBackend\\AuctionBackend",
+    "\\AuctionBackend\\AuctionBackend\\bin",
+    "\\AuctionBackend\\AuctionBackend\\Controllers",
+    "\\AuctionBackend\\AuctionBackend\\Data",
+    "\\AuctionBackend\\AuctionBackend\\Migrations",
+    "\\AuctionBackend\\AuctionBackend\\Models",
+    "\\AuctionBackend\\AuctionBackend\\Models\\Entities"
   ],
   "PreviewInSolutionExplorer": false
 }
